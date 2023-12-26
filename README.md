@@ -1,21 +1,21 @@
 # Nodejs Authentication Servie
 
-<h4>Email Authentication</h4>
-<h4>Phone Authentication</h4>
-<h4>Google Authentication</h4>
-<h4>Github Authentication</h4>
+<h5>Email Authentication</h5>
+<h5>Phone Authentication</h5>
+<h5>Google Authentication</h5>
+<h5>Github Authentication</h5>
 
-<h3>Tech Stack</h3>
+<h4>Tech Stack</h4>
 
-### Nodejs
-### Expressjs
-### MongoDB
-### Passportjs
+#### Nodejs
+#### Expressjs
+#### MongoDB
+#### Passportjs
 
-<h3>Install Dependencies</h3>
+<h4>Install Dependencies</h4>
 
 ##### npm install
 
-<h3>Start Development Server</h3>
+<h4>Start Development Server</h4>
 
 ##### npm run dev
