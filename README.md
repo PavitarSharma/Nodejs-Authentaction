@@ -1,4 +1,4 @@
-# Nodejs Authentication Servie
+# Nodejs Authentication Service
 
 <h5>Email Authentication</h5>
 <h5>Phone Authentication</h5>
